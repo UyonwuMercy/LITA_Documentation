@@ -14,9 +14,9 @@
 -  SQL- Structured Query Language for Querying of Data
 -  GitHub for Porfolio Building
 
-###Data Cleaning and Preparetions
+### Data Cleaning and Preparetions
 
-in the initial phase of the Data Cleaning and Preparations, we perform the following action;
+In the initial phase of the Data Cleaning and Preparations, we perform the following action;
 1. Data Loading and Inspection
 2. Handling Missing Variables
 3. Data Cleaning and Formatting
