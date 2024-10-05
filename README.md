@@ -1,6 +1,6 @@
 # LITA_Documentation
 
-###Project Title: Incubator Hub Learning Documentation
+### Project Title: Incubator Hub Learning Documentation
 
 ###Project Overview
 
