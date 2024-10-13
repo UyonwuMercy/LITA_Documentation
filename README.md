@@ -1,19 +1,32 @@
 # LITA_Documentation
 
-### Project Title: Incubator Hub Learning Documentation
+## Project Title: Pivot Table Insights
 
 ### Project Overview
-```
+The Pivot Table Insights project focuses on utilizing pivot tables to analyze and visualize data effectively. This project demonstrates how to transform raw data into actionable insights through interactive pivot tables, making it easier for users to summarize, explore, and understand complex datasets.
+
+### Objectives
+- To demonstrate the effectiveness of pivot tables in data analysis.
+- To provide a user-friendly interface for generating pivot tables from various data sources.
+- To enhance data exploration through dynamic filtering, sorting, and aggregation.
+
 ### Data Sources
-```
+- Data Import: Users can import datasets from multiple formats, including CSV, Excel, and Google Sheets.
+- Interactive Pivot Table Creation: Users can drag and drop fields to create custom pivot tables in real-time.
+- Aggregation Functions: Support for various aggregation functions such as sum, average, count, min, and max.
+- Dynamic Filtering: Users can apply filters to focus on specific data subsets.
+- Visualizations: Generate charts and graphs based on pivot table results for enhanced data visualization.
+- Export Options: Save the pivot table and visualizations as PDF, CSV, or image formats.
+
 ### TooLS Used
-```
--  Microsoft Excel [Download Here] (Add Address)
-  1.  For Data Cleaning,
-  2.  For Analysis
-  3.  For Data Visualization
--  SQL- Structured Query Language for Querying of Data
--  GitHub for Porfolio Building
+
+- Microsoft Excel [Download Here](../../Documents/Copy%20of%20Pivot_Tables_File(1).xlsx)
+  1. For Data Cleaning,
+  2. For Analysis
+  3. For Data Visualization
+
+- SQL- Structured Query Language for Querying of Data
+- GitHub for Porfolio Building
 
 ### Data Cleaning and Preparetions
 ```
@@ -23,11 +36,12 @@ In the initial phase of the Data Cleaning and Preparations, we perform the follo
 3. Data Cleaning and Formatting
 
 ### Exploratory Data Analysis
-```
-EDA involves the exploring of the Data to answer some questions about the Data such as;
-- What is the overall sales trend 
-- Which product are top sellers
-- What are the products on peak sales?
+EDA involves the exploring of the Data to answer some questions about the Data such as:
+- Region By Revenue
+- Revenue By Unit Sold
+- Products By Unit Sold
+- Top Five (5) Market By Revenue
+- Bottom Five (5) Stores By Unit Sold
 
 - ### Data Analysis
  ```
