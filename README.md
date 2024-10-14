@@ -18,6 +18,10 @@
 
 [Data Visualization](#data-visualization)
 
+[Contribution](#contribution)
+
+[Contact](#contact)
+
 ### Project Overview 
 The Pivot Table Insights project focuses on utilizing pivot tables to analyze and visualize data effectively. This project demonstrates how to transform raw data into actionable insights through interactive pivot tables, making it easier for users to summarize, explore, and understand complex datasets.
 
@@ -75,6 +79,16 @@ In the initial phase of the Data Cleaning and Preparations, we perform the follo
 ![Screenshot (12)](https://github.com/user-attachments/assets/bfd6e9b1-1912-4569-9b3c-34f8bc52ba40)
 
   SELECT![Screenshot (15)](https://github.com/user-attachments/assets/f72e11cd-c23c-4ff2-a6e9-05a4448eff96)
+  
+  ### Contribution
+Contributions are encouraged! Please fork the repository, create a feature branch, and submit a pull request. Make sure to adhere to the project's coding standards and documentation guidelines.
+
+ ### Contact
+For inquiries, suggestions, or feedback, please open an issue on GitHub or contact me at [uyonwumercy56@gmail.com].
+
+
+
+
 
   
 
