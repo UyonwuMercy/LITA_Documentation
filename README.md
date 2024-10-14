@@ -29,23 +29,26 @@ The Pivot Table Insights project focuses on utilizing pivot tables to analyze an
 - GitHub for Porfolio Building
 
 ### Data Cleaning and Preparetions
-```
+
 In the initial phase of the Data Cleaning and Preparations, we perform the following action;
 1. Data Loading and Inspection
 2. Handling Missing Variables
 3. Data Cleaning and Formatting
 
 ### Exploratory Data Analysis
-EDA involves the exploring of the Data to answer some questions about the Data such as:
+
+  EDA involves the exploring of the Data to answer some questions about the Data 
+  such as:
 - Region By Revenue
 - Revenue By Unit Sold
 - Products By Unit Sold
 - Top Five (5) Market By Revenue
 - Bottom Five (5) Stores By Unit Sold
 
-- ### Data Analysis
- ```
+### Data Analysis
+ 
   This is where we include some basic lines of code or queries or even some of the DAX expressions used during your analysis;
+Create pivot table on an existing worksheet: Alt+F1.
   ```SQL
   SELECT * FROM TABLE 1
   WHERE CONDITION = TRUE
