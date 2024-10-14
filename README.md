@@ -1,6 +1,6 @@
 # LITA_Documentation
 
-## Project Title: Pivot Table Insights
+## Project Title: Sales Report
 
 [project overview](#project-overview)
 
