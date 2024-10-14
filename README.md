@@ -49,9 +49,13 @@ In the initial phase of the Data Cleaning and Preparations, we perform the follo
  
   This is where we include some basic lines of code or queries or even some of the DAX expressions used during your analysis;
 Create pivot table on an existing worksheet: Alt+F1.
-  ```SQL
-  SELECT * FROM TABLE 1
+ 
+ ```SQL
+
+ * FROM TABLE 1
   WHERE CONDITION = TRUE
   ```
   ### Data Visualization
+![Screenshot (12)](https://github.com/user-attachments/assets/bfd6e9b1-1912-4569-9b3c-34f8bc52ba40)
 
+  SELECT![Screenshot (15)](https://github.com/user-attachments/assets/f72e11cd-c23c-4ff2-a6e9-05a4448eff96)
