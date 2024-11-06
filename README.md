@@ -1,6 +1,6 @@
 # LITA_Documentation
 
-## Project Title: Sales Report
+ ## Project Title: Sales Report
 
 [project overview](#project-overview)
 
